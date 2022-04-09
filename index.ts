@@ -9,6 +9,7 @@ app.set('port', 3000);
 
 app.get('/',(req:any,res:any)=>{
     res.render('index');
+    
 })
 
 
