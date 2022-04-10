@@ -1,67 +1,35 @@
 {
-    "easy": [
+    "difficulty": [
         {
             "questions": [
                 {
-                    "q": "How did Spider-Man get his powers?",
-                    "correctAnswer": "3",
-                    "answers": [
-                        {
-                            "a": "Bat",
-                            "b": "alian",
-                            "c": "spider",
-                            "d": "rat"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "questions": [
-                {
-                    "q": "What is the longest that an elephant has ever lived? (That we know of)",
+                    "q": "1.Easy: What is the longest that an elephant has ever lived? (That we know of)",
                     "correctAnswer": "2",
                     "answers": [
-                        {
-                            "a": "17",
-                            "b": "86",
-                            "c": "124",
-                            "d": "49"
-                        }
+                        "17",
+                        "86",
+                        "124",
+                        "49"
                     ]
-                }
-            ]
-        },
-        {
-            "questions": [
+                },
                 {
-                    "q": "How many rings are on the Olympic flag?",
+                    "q": "2.Easy: How many rings are on the Olympic flag?",
                     "correctAnswer": "4",
                     "answers": [
-                        {
-                            "a": "0",
-                            "b": "1",
-                            "c": "7",
-                            "d": "5"
-                        }
+                        "0",
+                        "1",
+                        "7",
+                        "5"
                     ]
-                }
-            ]
-        }
-    ],
-    "normal": [
-        {
-            "questions": [
+                },
                 {
-                    "q": "What is actually electricity?",
-                    "correctAnswer": "3",
+                    "q": "3. Easy: How did Spider-Man get his powers?",
+                    "correctAnswer": "1",
                     "answers": [
-                        {
-                            "a": "A flow of water",
-                            "b": "A flow of air",
-                            "c": "A flow of electrons",
-                            "d": "A flow of atoms"
-                        }
+                        "spider",
+                        "alian",
+                        "bat",
+                        "rat"
                     ]
                 }
             ]
@@ -69,33 +37,23 @@
         {
             "questions": [
                 {
-                    "q": "Which of the following is not an international organisation?",
+                    "q": "1. Normal: What is actually electricity?",
+                    "correctAnswer": "3",
+                    "answers": [
+                        "A flow of water",
+                        "A flow of air",
+                        "A flow of electrons",
+                        "A flow of atoms"
+                    ]
+                },
+                {
+                    "q": "2.Normal: Which of the following is not an international organisation?",
                     "correctAnswer": "4",
                     "answers": [
-                        {
-                            "a": "FIFA",
-                            "b": "NATO",
-                            "c": "ASEAN",
-                            "d": "FBI"
-                        }
-                    ]
-                }
-            ]
-        }
-    ],
-    "Hard": [
-        {
-            "questions": [
-                {
-                    "q": "What is the main component of the sun?",
-                    "correctAnswer": "2",
-                    "answers": [
-                        {
-                            "a": "Liquid lava",
-                            "b": "Gas",
-                            "c": "Molten iron",
-                            "d": "Rock"
-                        }
+                        "FIFA",
+                        "NATO",
+                        "ASEAN",
+                        "FBI"
                     ]
                 }
             ]
@@ -103,33 +61,23 @@
         {
             "questions": [
                 {
-                    "q": "In the series “Game of Thrones”, Winterfell is the ancestral home of which family?",
+                    "q": "1. Hard: What is the main component of the sun?",
                     "correctAnswer": "2",
                     "answers": [
-                        {
-                            "a": "The Lannisters",
-                            "b": "The Starks",
-                            "c": "The Tully's",
-                            "d": "The Targaryens"
-                        }
+                        "Liquid lava",
+                        "Gas",
+                        "Molten iron",
+                        "Rock"
                     ]
-                }
-            ]
-        }
-    ],
-    "Imposible": [
-        {
-            "questions": [
+                },
                 {
-                    "q": "What is the speed of sound",
-                    "correctAnswer": "3",
+                    "q": "2. Hard: In the series “Game of Thrones”, Winterfell is the ancestral home of which family?",
+                    "correctAnswer": "2",
                     "answers": [
-                        {
-                            "a": "120K km/h",
-                            "b": "400K km/h",
-                            "c": "1,200K km/h",
-                            "d": "4. 700K km/h"
-                        }
+                        "The Lannisters",
+                        "The Starks",
+                        "The Tully's",
+                        "The Targaryens"
                     ]
                 }
             ]
@@ -137,15 +85,23 @@
         {
             "questions": [
                 {
-                    "q": "Which of the following actors was the first one to play James Bond?",
+                    "q": "1. Imposible: What is the speed of sound",
                     "correctAnswer": "3",
                     "answers": [
-                        {
-                            "a": "Timothy Dalton",
-                            "b": "Roger Moore",
-                            "c": "Sean Connery",
-                            "d": "George Lazenby"
-                        }
+                        "120K km/h",
+                        "400K km/h",
+                        "1,200K km/h",
+                        "4. 700K km/h"
+                    ]
+                },
+                {
+                    "q": "2. Imposible: Which of the following actors was the first one to play James Bond?",
+                    "correctAnswer": "3",
+                    "answers": [
+                        "Timothy Dalton",
+                        "Roger Moore",
+                        "Sean Connery",
+                        "George Lazenby"
                     ]
                 }
             ]
